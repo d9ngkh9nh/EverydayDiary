@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758259717342",
+    "firebase_url": "https://everyday-diary.firebaseio.com",
+    "project_id": "everyday-diary",
+    "storage_bucket": "everyday-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758259717342:android:74bce860db725477",
+        "android_client_info": {
+          "package_name": "com.example.khanhdang.everydaydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758259717342-f5sffqjtce567r28c6p709v2hnovu2ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khanhdang.everydaydiary",
+            "certificate_hash": "8b6fa1d3f19c9e4d56b7ca25fcdb685342661753"
+          }
+        },
+        {
+          "client_id": "758259717342-32vog03k0t8rg7flfokt8ssab4tlfilr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WvKWxBO3_y4fGXWP9FXy-655vm6jOGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758259717342-32vog03k0t8rg7flfokt8ssab4tlfilr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
